@@ -1,4 +1,4 @@
-1. Multi-Format File Handling
+🔹 1. Multi-Format File Handling
 The API accepts images, PDFs, Word (DOCX), and Excel (XLS/XLSX) files. It intelligently detects the file type and processes each format accordingly to extract content.
 
 🔹 2. Text Extraction + Face Detection
