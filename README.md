@@ -1,19 +1,61 @@
-🔹 1. Multi-Format File Handling
-The API accepts images including CNIC in format of (jpg, jpeg, png, bmp, etc.), PDFs, Word (DOCX), and Excel (XLS/XLSX) files. It intelligently detects the file type and processes each format accordingly to extract content.
 
-🔹 2. Text Extraction + Face Detection
-For files containing images (or actual image files), it:
+## 📄 Images & Document – Smart Text + Face Extractor
 
-Extracts text using EasyOCR (supports English and Urdu).
+An intelligent, all-in-one API that handles various file types to extract text and detect faces – especially optimized for **CNICs, identity cards, and scanned documents**.
 
-Detects a human face using OpenCV, then returns the face image in base64 format.
 
-🔹 3. Single Unified API Endpoint
-Everything runs through one / POST endpoint, which returns:
+### 🚀 Key Features:
 
-"Extracted_Text" from the file/image
+#### ✅ 1. **Multi-Format File Handling**
 
-"Face_Image_Base64" (if a face is found in any image)
+* Accepts:
+  `JPG`, `JPEG`, `PNG`, `BMP`, `PDF`, `DOCX`, `XLS`, `XLSX`
+* The API **automatically detects the file type** and processes it intelligently.
+* No need to switch endpoints — it **processes all through a single API**.
 
-This makes the system a powerful and simple API for intelligent document/image processing.
+
+#### ✅ 2. **Text Extraction + Face Detection**
+
+* For any file containing images (direct or embedded):
+
+  * 📝 Extracts text using **EasyOCR** with **English and Urdu support**.
+  * 👤 Detects human face using **OpenCV**.
+  * 🔄 Returns cropped face as **Base64-encoded image**.
+* Ideal for processing **CNICs**, **passport photos**, or **official documents**.
+
+---
+
+#### ✅ 3. **Single Unified API Endpoint**
+
+* Everything is handled via:
+
+  POST /upload
+  
+* API Response includes:
+
+  ```json
+  {
+    "Extracted_Text": "...",
+    "Face_Image_Base64": "..."
+  }
+  ```
+* Clean, fast, and efficient — perfect for **automation** or **document verification systems**.
+
+---
+
+### 🧠 Built With:
+
+* **Python**
+* **Flask**
+* **OpenCV**
+* **EasyOCR**
+* **Filetype** (for type detection)
+  
+### 🧪 Use Cases:
+
+* CNIC or ID Card Verification
+* Document Scanning & Archiving
+* Face-based Document Matching
+* OCR for Urdu-English Documents
+
 
