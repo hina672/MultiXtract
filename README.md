@@ -42,6 +42,9 @@ An intelligent, all-in-one API that handles various file types to extract text a
 * Clean, fast, and efficient — perfect for **automation** or **document verification systems**.
 
 ---
+*and also it have*:
+**decode.py** file:
+This utility script decodes a Base64 encoded image string (for example, the face image returned by the APIs) back into an image format usable for display or saving. It helps in converting the Base64 string back to a normal image for further processing or viewing.
 
 ### 🧠 Built With:
 
