@@ -3,11 +3,11 @@
 
 An intelligent, all-in-one API that handles various file types to extract text and detect faces – especially optimized for **CNICs, identity cards, and scanned documents**.
 
-![Preview](snapshots/Front CNIC data extraction.PNG)
-![Preview](snapshots/Image Text Extraction.PNG)
-![Preview](snapshots/Random excel file extraction.PNG)
-![Preview](snapshots/pdf text extraction.PNG)
-![Preview](snapshots/word file with text image text extraction.PNG)
+![Preview](snapshots/FrontCNICdataExtraction.PNG)
+![Preview](snapshots/ImageTextExtraction.PNG)
+![Preview](snapshots/RandomExcelFileExtraction.PNG)
+![Preview](snapshots/pdfTextExtraction)
+![Preview](snapshots/wordFileWithTextImage)
 
 ### 🚀 Key Features:
 
