@@ -33,9 +33,6 @@ Perfect Hina! Based on the image you shared and the file names in your GitHub `s
 
 ---
 
-✅ Just copy this section into your `README.md` file (preferably after the `Use Cases` or `Built With` section).
-
-Let me know if you also want to add captions under the images or resize them.
 
 
 ### 🚀 Key Features:
