@@ -92,4 +92,4 @@ This utility script decodes a Base64 encoded image string (for example, the face
 * Face-based Document Matching
 * OCR for Urdu-English Documents
 
-
+🔐 Note: This is a public demo overview. Preview images are intentionally excluded from this public demo to respect privacy and data sensitivity. The full source code is available upon request. Contact me via LinkedIn https://www.linkedin.com/in/hinaasad-/ or email at hinaasad672@gmail.com.
