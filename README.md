@@ -9,12 +9,6 @@ Perfect Hina! Based on the image you shared and the file names in your GitHub `s
 
 ### 📸 Sample Snapshots
 
-#### 🪪 Front CNIC Data Extraction
-
-![Front CNIC](https://github.com/hina672/MultiXtract/raw/main/snapshots/Front%20CNIC%20data%20extraction.PNG)
-
----
-
 #### 🖼️ Image Text Extraction
 
 ![Image Text](https://github.com/hina672/MultiXtract/raw/main/snapshots/Image%20Text%20Extraction.PNG)
