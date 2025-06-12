@@ -3,11 +3,46 @@
 
 An intelligent, all-in-one API that handles various file types to extract text and detect faces – especially optimized for **CNICs, identity cards, and scanned documents**.
 
-![Preview](snapshots/FrontCNICdataExtraction.PNG)
-![Preview](snapshots/ImageTextExtraction.PNG)
-![Preview](snapshots/RandomExcelFileExtraction.PNG)
-![Preview](snapshots/pdfTextExtraction)
-![Preview](snapshots/wordFileWithTextImage)
+Perfect Hina! Based on the image you shared and the file names in your GitHub `snapshots/` folder, here's the updated section of your `README.md` with all **📸 preview images** added properly:
+
+---
+
+### 📸 Sample Snapshots
+
+#### 🪪 Front CNIC Data Extraction
+
+![Front CNIC](https://github.com/hina672/MultiXtract/raw/main/snapshots/Front%20CNIC%20data%20extraction.PNG)
+
+---
+
+#### 🖼️ Image Text Extraction
+
+![Image Text](https://github.com/hina672/MultiXtract/raw/main/snapshots/Image%20Text%20Extraction.PNG)
+
+---
+
+#### 📊 Random Excel File Extraction
+
+![Excel File](https://github.com/hina672/MultiXtract/raw/main/snapshots/Random%20excel%20file%20extraction.PNG)
+
+---
+
+#### 📄 PDF Text Extraction
+
+![PDF](https://github.com/hina672/MultiXtract/raw/main/snapshots/pdfTextExtraction)
+
+---
+
+#### 📝 Word File with Text + Image Text Extraction
+
+![Word File](https://github.com/hina672/MultiXtract/raw/main/snapshots/wordFileWithTextImage)
+
+---
+
+✅ Just copy this section into your `README.md` file (preferably after the `Use Cases` or `Built With` section).
+
+Let me know if you also want to add captions under the images or resize them.
+
 
 ### 🚀 Key Features:
 
